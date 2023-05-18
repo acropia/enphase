@@ -12,7 +12,7 @@ https://envoy.local/home#auth
 
 https://envoy.local/home.json
 - Format: JSON
-- Example: [./output_examples/envoy_home.json]
+- Example: [home.json](./output_examples/envoy_home.json)
 
 
 https://envoy.local/installer/setup/home
