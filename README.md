@@ -10,6 +10,11 @@ https://envoy.local/home#auth
 - Login with Enlighten Installer account: advanced interface
 
 
+https://envoy.local/home.json
+- Format: JSON
+- Example: [./output_examples/envoy_home.json]
+
+
 https://envoy.local/installer/setup/home
 - Auth: Enlighten Installer account
 - Format: Graphical web interface
