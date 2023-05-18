@@ -11,8 +11,22 @@ https://envoy.local/home#auth
 
 
 https://envoy.local/home.json
+- Description: 
 - Format: JSON
 - Example: [home.json](./output_examples/envoy_home.json)
+
+
+https://envoy.local/production.json
+- Description: Production statistics and measurements
+- Format: JSON
+- Example: [production.json](./output_examples/envoy_production.json)
+
+
+https://envoy.local/production.json?details=1
+- Description: Same as production.json, but with more detail
+- Format: JSON
+- Example: [production.json?details=1](./output_examples/envoy_production_with_details.json)
+
 
 
 https://envoy.local/installer/setup/home
