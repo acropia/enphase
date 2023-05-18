@@ -1,0 +1,134 @@
+[
+    {
+        "createdAt": 1684431884,
+        "reportType": "total-consumption",
+        "cumulative": {
+            "currW": -1.685,
+            "actPower": -1.685,
+            "apprntPwr": 133.470,
+            "reactPwr": -0.000,
+            "whDlvdCum": 0.000,
+            "whRcvdCum": 0.000,
+            "varhLagCum": -0.002,
+            "varhLeadCum": 0.000,
+            "vahCum": 0.000,
+            "rmsVoltage": 238.775,
+            "rmsCurrent": 0.764,
+            "pwrFactor": 0.00,
+            "freqHz": 50.00
+        },
+        "lines": [
+            {
+                "currW": -1.976,
+                "actPower": -1.976,
+                "apprntPwr": 132.697,
+                "reactPwr": -0.000,
+                "whDlvdCum": 0.000,
+                "whRcvdCum": 0.000,
+                "varhLagCum": -0.001,
+                "varhLeadCum": 0.000,
+                "vahCum": 0.000,
+                "rmsVoltage": 227.744,
+                "rmsCurrent": 0.583,
+                "pwrFactor": -0.01,
+                "freqHz": 50.00
+            },
+            {
+                "currW": -0.000,
+                "actPower": -0.000,
+                "apprntPwr": -0.000,
+                "reactPwr": -0.000,
+                "whDlvdCum": 0.000,
+                "whRcvdCum": 0.000,
+                "varhLagCum": -0.001,
+                "varhLeadCum": 0.000,
+                "vahCum": 0.000,
+                "rmsVoltage": 6.776,
+                "rmsCurrent": -0.000,
+                "pwrFactor": -1.00,
+                "freqHz": 50.00
+            },
+            {
+                "currW": 0.291,
+                "actPower": 0.291,
+                "apprntPwr": 0.772,
+                "reactPwr": 0.000,
+                "whDlvdCum": 0.000,
+                "whRcvdCum": 0.000,
+                "varhLagCum": 0.000,
+                "varhLeadCum": 0.000,
+                "vahCum": 0.000,
+                "rmsVoltage": 4.255,
+                "rmsCurrent": 0.181,
+                "pwrFactor": 0.38,
+                "freqHz": 50.00
+            }
+        ]
+    },
+    {
+        "createdAt": 1684431884,
+        "reportType": "net-consumption",
+        "cumulative": {
+            "currW": 3.914,
+            "actPower": 3.914,
+            "apprntPwr": 58.539,
+            "reactPwr": -0.000,
+            "whDlvdCum": 0.000,
+            "whRcvdCum": 0.000,
+            "varhLagCum": 0.000,
+            "varhLeadCum": 0.000,
+            "vahCum": 0.000,
+            "rmsVoltage": 238.775,
+            "rmsCurrent": 0.435,
+            "pwrFactor": 0.10,
+            "freqHz": 50.00
+        },
+        "lines": [
+            {
+                "currW": 3.623,
+                "actPower": 3.623,
+                "apprntPwr": 57.766,
+                "reactPwr": -0.000,
+                "whDlvdCum": 0.000,
+                "whRcvdCum": 0.000,
+                "varhLagCum": 0.000,
+                "varhLeadCum": 0.000,
+                "vahCum": 0.000,
+                "rmsVoltage": 227.744,
+                "rmsCurrent": 0.254,
+                "pwrFactor": 0.06,
+                "freqHz": 50.00
+            },
+            {
+                "currW": -0.000,
+                "actPower": -0.000,
+                "apprntPwr": -0.000,
+                "reactPwr": -0.000,
+                "whDlvdCum": 0.000,
+                "whRcvdCum": 0.000,
+                "varhLagCum": 0.000,
+                "varhLeadCum": 0.000,
+                "vahCum": 0.000,
+                "rmsVoltage": 6.776,
+                "rmsCurrent": -0.000,
+                "pwrFactor": -1.00,
+                "freqHz": 50.00
+            },
+            {
+                "currW": 0.291,
+                "actPower": 0.291,
+                "apprntPwr": 0.772,
+                "reactPwr": 0.000,
+                "whDlvdCum": 0.000,
+                "whRcvdCum": 0.000,
+                "varhLagCum": 0.000,
+                "varhLeadCum": 0.000,
+                "vahCum": 0.000,
+                "rmsVoltage": 4.255,
+                "rmsCurrent": 0.181,
+                "pwrFactor": 0.38,
+                "freqHz": 50.00
+            }
+        ]
+    }
+]

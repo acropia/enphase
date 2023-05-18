@@ -1,0 +1,16 @@
+[
+  {
+    "serialNumber": "12345678901",
+    "lastReportDate": 1684431937,
+    "devType": 1,
+    "lastReportWatts": 10,
+    "maxReportWatts": 245
+  },
+  {
+    "serialNumber": "12345678902",
+    "lastReportDate": 1684432087,
+    "devType": 1,
+    "lastReportWatts": 16,
+    "maxReportWatts": 329
+  }
+]

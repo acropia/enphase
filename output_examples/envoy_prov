@@ -1,0 +1,29 @@
+{
+  "envoy_sn": "1234567890",
+  "num_dev_types": 1,
+  "dev_types": [
+    {
+      "dev_type": 1,
+      "num_part_nums": 1,
+      "part_nums": [
+        {
+          "part_num": "800-01361-r02",
+          "tan": "885-01361-r06",
+          "num_serial_nums": 2,
+          "serial_nums": [
+            {
+              "sn": "12345678901",
+              "admin_state": "1",
+              "aid": "12345678903"
+            },
+            {
+              "sn": "12345678902",
+              "admin_state": "2",
+              "aid": "12345678904"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

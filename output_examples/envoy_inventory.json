@@ -1,0 +1,69 @@
+[
+  {
+    "type": "PCU",
+    "devices": [
+      {
+        "part_num": "800-01361-r02",
+        "installed": "1683914632",
+        "serial_num": "12345678901",
+        "device_status": [
+          "envoy.global.ok"
+        ],
+        "last_rpt_date": "1684428962",
+        "admin_state": 2,
+        "dev_type": 1,
+        "created_date": "1683914632",
+        "img_load_date": "0",
+        "img_pnum_running": "521-00005-r05-v06.05.02",
+        "ptpn": "549-00049-r01-v06.05.03",
+        "chaneid": 1627390225,
+        "device_control": [
+          {
+            "gficlearset": false
+          }
+        ],
+        "producing": true,
+        "communicating": true,
+        "provisioned": true,
+        "operating": false
+      },
+      {
+        "part_num": "800-01361-r02",
+        "installed": "1684004019",
+        "serial_num": "12345678902",
+        "device_status": [
+          "envoy.global.ok"
+        ],
+        "last_rpt_date": "1684429112",
+        "admin_state": 1,
+        "dev_type": 1,
+        "created_date": "1684004019",
+        "img_load_date": "0",
+        "img_pnum_running": "521-00005-r05-v06.05.02",
+        "ptpn": "549-00049-r01-v06.05.03",
+        "chaneid": 1627390481,
+        "device_control": [
+          {
+            "gficlearset": false
+          }
+        ],
+        "producing": true,
+        "communicating": true,
+        "provisioned": true,
+        "operating": false
+      }
+    ]
+  },
+  {
+    "type": "ACB",
+    "devices": []
+  },
+  {
+    "type": "NSRB",
+    "devices": []
+  },
+  {
+    "type": "ESUB",
+    "devices": []
+  }
+]
